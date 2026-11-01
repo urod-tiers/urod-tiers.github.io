@@ -1,0 +1,1 @@
+import{A as e,C as t,F as n,G as r,o as i,t as a,x as o}from"./BKpHXovV.js";var s=t(`<img alt="" class="object-contain"/>`);function c(t,c){let l=a(c,`size`,3,28),u=r(()=>c.mode===`overall`?`/modes/overall.svg`:`/modes/${c.mode}.png`);var d=s();n(()=>{i(d,`src`,e(u)),i(d,`width`,l()),i(d,`height`,l())}),o(t,d)}export{c as t};
